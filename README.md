@@ -46,6 +46,3 @@ This project involves a comprehensive analysis of product sales data. Using the 
 3. **Run the cells:**
    Execute the cells sequentially to run the analysis and view the results.
 
----
-
-Feel free to modify or expand this `README.md` to better suit your project specifics or personal preferences.
